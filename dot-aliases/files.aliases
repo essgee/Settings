@@ -1,3 +1,6 @@
 alias projects='cd ~/Projects'
 alias settings='cd ~/Settings'
 alias notes='cd ~/Google\ Drive/notes'
+
+alias zshrc='subl -n ~/.zshrc'
+alias aliases='subl -n ~/Settings/dot-aliases'
