@@ -1,3 +1,4 @@
 source ~/.aliases/app-cli.aliases
 source ~/.aliases/git.aliases
 source ~/.aliases/ruby.aliases
+source ~/.aliases/files.aliases
