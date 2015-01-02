@@ -1,4 +1,6 @@
-source ~/.aliases/app-cli.aliases
-source ~/.aliases/git.aliases
-source ~/.aliases/ruby.aliases
-source ~/.aliases/files.aliases
+context=essgee
+
+source ~/.$context.aliases/app-cli.aliases
+source ~/.$context.aliases/git.aliases
+source ~/.$context.aliases/ruby.aliases
+source ~/.$context.aliases/files.aliases
