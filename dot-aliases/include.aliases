@@ -1,0 +1,3 @@
+source ~/.aliases/app-cli.aliases
+source ~/.aliases/git.aliases
+source ~/.aliases/ruby.aliases
